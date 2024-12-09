@@ -1,0 +1,251 @@
+RECORD_ID,LAB_NAME,REPORT_DATE,TEST_TYPE,RESULT,PATIENT_ID,PATIENT_AGE,PATIENT_SEX,STATE,COUNTY,SPECIMEN_TYPE,TEST_DATE
+1,BioReference,2024-12-03,Measles IgM Antibody,Positive,P54595,46,M,TX,Travis,Nasopharyngeal,2024-11-17
+2,LabCorp,2024-11-26,Measles IgM Antibody,Positive,P24256,82,F,PA,Allegheny,Blood,2024-11-17
+3,BioReference,2024-11-21,Mumps PCR,Positive,P77336,55,F,NY,Kings,Swab,2024-11-11
+4,BioReference,2024-11-18,Measles IgM Antibody,Positive,P56802,42,F,CO,Denver,Blood,2024-11-11
+5,Quest Diagnostics,2024-11-19,Measles IgM Antibody,Positive,P21473,3,F,FL,Miami-Dade,Swab,2024-11-28
+6,Quest Diagnostics,2024-11-05,Influenza A PCR,Negative,P35656,6,M,NY,Kings,Nasopharyngeal,2024-11-08
+7,BioReference,2024-11-16,Mumps PCR,Positive,P22317,17,F,CO,Denver,Blood,2024-11-13
+8,BioReference,2024-11-20,Measles IgM Antibody,Inconclusive,P10444,29,F,PA,Allegheny,Serum,2024-12-02
+9,LabCorp,2024-11-21,Mumps PCR,Inconclusive,P91807,55,M,TX,Travis,Serum,2024-11-19
+10,Quest Diagnostics,2024-11-18,Measles IgM Antibody,Negative,P96116,76,F,MA,Suffolk,Nasopharyngeal,2024-10-27
+11,Quest Diagnostics,2024-11-21,COVID-19 PCR,Inconclusive,P47294,60,F,MA,Suffolk,Blood,2024-11-20
+12,BioReference,2024-11-19,Influenza A PCR,Inconclusive,P18535,49,F,TX,Travis,Serum,2024-11-26
+13,LabCorp,2024-11-18,Rubella IgG Antibody,Negative,P77842,35,F,CO,Denver,Blood,2024-11-03
+14,LabCorp,2024-12-04,Influenza A PCR,Inconclusive,P58861,33,M,NY,Kings,Swab,2024-11-09
+15,LabCorp,2024-11-07,Hepatitis B Surface Antigen,Inconclusive,P28577,78,F,FL,Miami-Dade,Nasopharyngeal,2024-12-02
+16,Quest Diagnostics,2024-12-01,Hepatitis B Surface Antigen,Negative,P24791,62,M,GA,Fulton,Blood,2024-12-01
+17,BioReference,2024-11-18,Influenza A PCR,Inconclusive,P14017,33,M,CA,Los Angeles,Nasopharyngeal,2024-12-02
+18,Quest Diagnostics,2024-11-12,Influenza A PCR,Inconclusive,P75141,35,M,GA,Fulton,Saliva,2024-11-28
+19,Quest Diagnostics,2024-11-17,Influenza A PCR,Inconclusive,P36351,4,F,NY,Kings,Swab,2024-11-18
+20,LabCorp,2024-11-13,Rubella IgG Antibody,Positive,P53895,54,F,IL,Cook,Saliva,2024-12-01
+21,BioReference,2024-11-15,Mumps PCR,Inconclusive,P16273,5,F,WA,King,Nasopharyngeal,2024-11-05
+22,BioReference,2024-11-20,Rubella IgG Antibody,Positive,P99644,89,F,PA,Allegheny,Nasopharyngeal,2024-11-24
+23,BioReference,2024-12-03,Hepatitis B Surface Antigen,Negative,P43876,79,F,FL,Miami-Dade,Nasopharyngeal,2024-11-08
+24,LabCorp,2024-11-17,Measles IgM Antibody,Inconclusive,P38660,27,M,MA,Suffolk,Nasopharyngeal,2024-10-31
+25,BioReference,2024-11-23,Pertussis Culture,Negative,P25179,59,M,PA,Allegheny,Blood,2024-10-30
+26,Quest Diagnostics,2024-11-11,COVID-19 PCR,Negative,P59034,35,F,PA,Allegheny,Saliva,2024-11-05
+27,BioReference,2024-11-25,Influenza A PCR,Positive,P98316,57,M,GA,Fulton,Nasopharyngeal,2024-11-13
+28,BioReference,2024-12-01,COVID-19 PCR,Negative,P39599,68,M,NY,Kings,Swab,2024-11-13
+29,Quest Diagnostics,2024-11-28,Mumps PCR,Negative,P31322,29,M,MA,Suffolk,Blood,2024-10-28
+30,BioReference,2024-11-13,Rubella IgG Antibody,Inconclusive,P68762,89,F,IL,Cook,Saliva,2024-11-22
+31,LabCorp,2024-11-13,Measles IgM Antibody,Positive,P60148,72,M,TX,Travis,Swab,2024-11-18
+32,LabCorp,2024-11-27,Rubella IgG Antibody,Positive,P67505,77,M,WA,King,Nasopharyngeal,2024-10-28
+33,BioReference,2024-12-03,COVID-19 PCR,Positive,P10271,50,M,GA,Fulton,Serum,2024-11-29
+34,Quest Diagnostics,2024-11-11,Pertussis Culture,Positive,P49192,43,F,PA,Allegheny,Swab,2024-11-03
+35,BioReference,2024-11-19,Measles IgM Antibody,Inconclusive,P24014,56,F,TX,Travis,Blood,2024-11-30
+36,LabCorp,2024-11-30,Hepatitis B Surface Antigen,Positive,P97904,39,M,PA,Allegheny,Nasopharyngeal,2024-11-28
+37,Quest Diagnostics,2024-11-05,Measles IgM Antibody,Negative,P56173,23,F,TX,Travis,Nasopharyngeal,2024-11-15
+38,BioReference,2024-11-28,Influenza A PCR,Positive,P33595,8,M,TX,Travis,Swab,2024-11-23
+39,BioReference,2024-11-16,Influenza A PCR,Positive,P20574,85,M,IL,Cook,Nasopharyngeal,2024-11-25
+40,BioReference,2024-11-14,Influenza A PCR,Positive,P29290,1,M,FL,Miami-Dade,Nasopharyngeal,2024-11-05
+41,Quest Diagnostics,2024-11-16,Rubella IgG Antibody,Inconclusive,P68478,1,F,TX,Travis,Nasopharyngeal,2024-11-11
+42,LabCorp,2024-11-21,Mumps PCR,Inconclusive,P75763,13,F,WA,King,Swab,2024-11-15
+43,Quest Diagnostics,2024-11-12,COVID-19 PCR,Positive,P27658,52,M,MA,Suffolk,Swab,2024-11-22
+44,BioReference,2024-11-10,COVID-19 PCR,Inconclusive,P17453,72,F,IL,Cook,Swab,2024-11-19
+45,BioReference,2024-11-08,Rubella IgG Antibody,Negative,P65963,71,F,WA,King,Blood,2024-11-12
+46,Quest Diagnostics,2024-11-17,Influenza A PCR,Negative,P51467,14,M,CA,Los Angeles,Saliva,2024-10-26
+47,Quest Diagnostics,2024-12-03,Mumps PCR,Inconclusive,P30623,44,F,WA,King,Serum,2024-11-16
+48,BioReference,2024-11-18,Rubella IgG Antibody,Inconclusive,P50174,6,M,NY,Kings,Serum,2024-11-06
+49,BioReference,2024-11-20,COVID-19 PCR,Positive,P24511,52,M,CO,Denver,Blood,2024-11-22
+50,LabCorp,2024-11-09,Pertussis Culture,Positive,P73719,72,M,CO,Denver,Saliva,2024-11-18
+51,LabCorp,2024-11-28,Pertussis Culture,Negative,P28636,13,M,WA,King,Swab,2024-11-04
+52,LabCorp,2024-11-28,Mumps PCR,Inconclusive,P76726,38,F,WA,King,Nasopharyngeal,2024-11-18
+53,Quest Diagnostics,2024-12-02,Rubella IgG Antibody,Inconclusive,P23031,88,M,MA,Suffolk,Nasopharyngeal,2024-11-26
+54,Quest Diagnostics,2024-11-16,Influenza A PCR,Negative,P72056,51,M,PA,Allegheny,Nasopharyngeal,2024-11-07
+55,BioReference,2024-11-22,Mumps PCR,Positive,P62551,78,M,WA,King,Nasopharyngeal,2024-11-25
+56,BioReference,2024-12-02,Measles IgM Antibody,Positive,P92584,81,F,PA,Allegheny,Swab,2024-11-04
+57,Quest Diagnostics,2024-11-19,Pertussis Culture,Inconclusive,P84890,42,F,TX,Travis,Nasopharyngeal,2024-10-26
+58,LabCorp,2024-11-20,Hepatitis B Surface Antigen,Negative,P34532,11,F,MA,Suffolk,Serum,2024-11-21
+59,Quest Diagnostics,2024-11-18,Pertussis Culture,Positive,P56114,9,M,MA,Suffolk,Nasopharyngeal,2024-11-19
+60,Quest Diagnostics,2024-11-10,Rubella IgG Antibody,Negative,P42191,17,M,MA,Suffolk,Serum,2024-11-21
+61,LabCorp,2024-12-04,Rubella IgG Antibody,Negative,P26174,1,F,CA,Los Angeles,Swab,2024-11-24
+62,BioReference,2024-11-26,COVID-19 PCR,Negative,P21508,44,F,CA,Los Angeles,Serum,2024-11-24
+63,BioReference,2024-11-10,COVID-19 PCR,Inconclusive,P74911,56,F,FL,Miami-Dade,Swab,2024-11-14
+64,BioReference,2024-11-22,Measles IgM Antibody,Negative,P80834,42,F,CA,Los Angeles,Nasopharyngeal,2024-12-04
+65,LabCorp,2024-11-12,COVID-19 PCR,Negative,P68843,47,M,WA,King,Serum,2024-11-07
+66,Quest Diagnostics,2024-11-15,Pertussis Culture,Positive,P91114,79,M,TX,Travis,Swab,2024-11-03
+67,BioReference,2024-11-13,Rubella IgG Antibody,Inconclusive,P15808,24,M,IL,Cook,Blood,2024-11-11
+68,LabCorp,2024-11-26,Influenza A PCR,Inconclusive,P61030,11,F,PA,Allegheny,Nasopharyngeal,2024-11-12
+69,BioReference,2024-11-11,COVID-19 PCR,Negative,P44257,88,M,NY,Kings,Swab,2024-12-04
+70,Quest Diagnostics,2024-12-03,Measles IgM Antibody,Negative,P20928,51,M,IL,Cook,Serum,2024-11-06
+71,Quest Diagnostics,2024-11-10,Measles IgM Antibody,Positive,P97482,86,M,TX,Travis,Blood,2024-11-05
+72,LabCorp,2024-11-22,COVID-19 PCR,Inconclusive,P59634,9,M,CA,Los Angeles,Blood,2024-11-04
+73,LabCorp,2024-11-14,Hepatitis B Surface Antigen,Negative,P20671,6,F,MA,Suffolk,Saliva,2024-10-27
+74,Quest Diagnostics,2024-11-23,Pertussis Culture,Inconclusive,P34570,85,F,NY,Kings,Swab,2024-11-24
+75,Quest Diagnostics,2024-11-19,Measles IgM Antibody,Positive,P36718,55,M,GA,Fulton,Blood,2024-12-04
+76,Quest Diagnostics,2024-12-04,Measles IgM Antibody,Positive,P36856,16,M,FL,Miami-Dade,Blood,2024-11-25
+77,BioReference,2024-12-03,Pertussis Culture,Negative,P50123,76,F,GA,Fulton,Blood,2024-11-19
+78,LabCorp,2024-11-18,Hepatitis B Surface Antigen,Positive,P42561,77,M,IL,Cook,Swab,2024-11-12
+79,Quest Diagnostics,2024-11-07,COVID-19 PCR,Positive,P95654,63,F,CO,Denver,Serum,2024-12-03
+80,LabCorp,2024-11-07,Mumps PCR,Positive,P41279,27,M,WA,King,Saliva,2024-11-04
+81,LabCorp,2024-11-11,Hepatitis B Surface Antigen,Positive,P85554,68,M,FL,Miami-Dade,Nasopharyngeal,2024-11-12
+82,LabCorp,2024-12-02,Mumps PCR,Inconclusive,P61916,16,M,PA,Allegheny,Serum,2024-11-29
+83,LabCorp,2024-11-28,COVID-19 PCR,Inconclusive,P26839,60,M,MA,Suffolk,Nasopharyngeal,2024-11-28
+84,BioReference,2024-11-09,Mumps PCR,Inconclusive,P56470,70,M,CA,Los Angeles,Nasopharyngeal,2024-10-30
+85,BioReference,2024-11-25,Measles IgM Antibody,Positive,P37737,39,F,MA,Suffolk,Serum,2024-11-25
+86,Quest Diagnostics,2024-11-22,Rubella IgG Antibody,Inconclusive,P15756,85,M,TX,Travis,Blood,2024-11-10
+87,Quest Diagnostics,2024-11-10,Measles IgM Antibody,Inconclusive,P52404,23,F,FL,Miami-Dade,Swab,2024-10-29
+88,LabCorp,2024-11-28,Hepatitis B Surface Antigen,Negative,P22632,53,F,TX,Travis,Serum,2024-11-22
+89,Quest Diagnostics,2024-12-02,COVID-19 PCR,Negative,P23799,82,M,CO,Denver,Nasopharyngeal,2024-11-06
+90,BioReference,2024-11-14,Hepatitis B Surface Antigen,Negative,P17269,3,F,PA,Allegheny,Nasopharyngeal,2024-11-19
+91,Quest Diagnostics,2024-11-26,Measles IgM Antibody,Positive,P33549,24,F,CA,Los Angeles,Blood,2024-10-31
+92,BioReference,2024-12-02,Influenza A PCR,Negative,P95875,2,M,WA,King,Swab,2024-12-03
+93,LabCorp,2024-11-27,Rubella IgG Antibody,Positive,P67788,44,F,TX,Travis,Blood,2024-10-28
+94,BioReference,2024-11-09,Hepatitis B Surface Antigen,Negative,P44142,63,F,WA,King,Serum,2024-11-24
+95,LabCorp,2024-11-24,Mumps PCR,Negative,P27839,27,F,NY,Kings,Saliva,2024-12-01
+96,BioReference,2024-11-25,Mumps PCR,Positive,P56677,85,F,NY,Kings,Serum,2024-10-26
+97,Quest Diagnostics,2024-11-27,Measles IgM Antibody,Negative,P76110,73,F,TX,Travis,Swab,2024-11-11
+98,BioReference,2024-11-08,Hepatitis B Surface Antigen,Positive,P40941,58,F,GA,Fulton,Swab,2024-11-09
+99,BioReference,2024-11-19,Mumps PCR,Inconclusive,P40852,84,F,TX,Travis,Blood,2024-11-04
+100,LabCorp,2024-11-12,Rubella IgG Antibody,Positive,P46015,80,M,FL,Miami-Dade,Serum,2024-10-29
+101,LabCorp,2024-11-19,Hepatitis B Surface Antigen,Positive,P46950,63,F,MA,Suffolk,Serum,2024-11-15
+102,LabCorp,2024-11-13,Rubella IgG Antibody,Negative,P86115,14,M,TX,Travis,Serum,2024-11-18
+103,Quest Diagnostics,2024-11-29,Pertussis Culture,Negative,P31144,51,F,CA,Los Angeles,Saliva,2024-12-02
+104,Quest Diagnostics,2024-11-23,Influenza A PCR,Negative,P28591,43,F,CA,Los Angeles,Swab,2024-11-15
+105,Quest Diagnostics,2024-11-13,Pertussis Culture,Positive,P96540,86,F,NY,Kings,Nasopharyngeal,2024-10-29
+106,Quest Diagnostics,2024-11-21,Influenza A PCR,Inconclusive,P42955,5,M,CA,Los Angeles,Serum,2024-11-30
+107,LabCorp,2024-11-17,Pertussis Culture,Inconclusive,P25512,49,F,TX,Travis,Blood,2024-12-02
+108,LabCorp,2024-11-14,Pertussis Culture,Positive,P50327,40,F,CO,Denver,Nasopharyngeal,2024-11-21
+109,LabCorp,2024-12-02,COVID-19 PCR,Positive,P57297,50,F,WA,King,Swab,2024-11-10
+110,Quest Diagnostics,2024-11-08,COVID-19 PCR,Negative,P61193,47,M,NY,Kings,Blood,2024-11-14
+111,LabCorp,2024-12-02,Mumps PCR,Negative,P37821,12,M,FL,Miami-Dade,Saliva,2024-11-14
+112,Quest Diagnostics,2024-11-19,Hepatitis B Surface Antigen,Positive,P70807,44,M,FL,Miami-Dade,Serum,2024-11-12
+113,LabCorp,2024-11-16,Influenza A PCR,Negative,P18383,73,F,TX,Travis,Nasopharyngeal,2024-10-30
+114,Quest Diagnostics,2024-11-30,Mumps PCR,Negative,P31550,68,F,FL,Miami-Dade,Serum,2024-10-26
+115,BioReference,2024-11-08,Influenza A PCR,Negative,P83690,23,F,WA,King,Saliva,2024-11-03
+116,LabCorp,2024-11-28,Measles IgM Antibody,Inconclusive,P32330,50,M,CO,Denver,Saliva,2024-11-29
+117,LabCorp,2024-11-27,Measles IgM Antibody,Inconclusive,P73522,57,F,NY,Kings,Blood,2024-10-26
+118,BioReference,2024-11-12,Hepatitis B Surface Antigen,Positive,P91018,67,M,WA,King,Serum,2024-12-04
+119,LabCorp,2024-11-07,Pertussis Culture,Positive,P55941,43,M,CA,Los Angeles,Nasopharyngeal,2024-10-28
+120,Quest Diagnostics,2024-11-05,Rubella IgG Antibody,Inconclusive,P29370,60,M,PA,Allegheny,Saliva,2024-11-26
+121,BioReference,2024-11-23,Mumps PCR,Inconclusive,P57687,25,M,GA,Fulton,Blood,2024-11-24
+122,LabCorp,2024-12-04,Rubella IgG Antibody,Positive,P33499,48,M,FL,Miami-Dade,Blood,2024-11-16
+123,Quest Diagnostics,2024-11-25,Influenza A PCR,Positive,P51247,31,M,NY,Kings,Swab,2024-10-29
+124,LabCorp,2024-11-14,Measles IgM Antibody,Inconclusive,P87002,58,F,CO,Denver,Blood,2024-11-11
+125,BioReference,2024-12-03,Rubella IgG Antibody,Inconclusive,P12302,55,M,WA,King,Serum,2024-11-08
+126,Quest Diagnostics,2024-11-23,COVID-19 PCR,Inconclusive,P48188,70,F,FL,Miami-Dade,Swab,2024-11-24
+127,LabCorp,2024-11-21,Hepatitis B Surface Antigen,Positive,P60791,88,F,PA,Allegheny,Blood,2024-11-27
+128,Quest Diagnostics,2024-11-19,Hepatitis B Surface Antigen,Positive,P43582,75,F,NY,Kings,Swab,2024-10-29
+129,LabCorp,2024-11-14,Rubella IgG Antibody,Inconclusive,P98267,75,F,IL,Cook,Swab,2024-11-04
+130,BioReference,2024-11-16,COVID-19 PCR,Positive,P22620,25,F,CA,Los Angeles,Swab,2024-11-15
+131,Quest Diagnostics,2024-12-01,Measles IgM Antibody,Negative,P90426,54,M,TX,Travis,Swab,2024-11-17
+132,LabCorp,2024-11-23,Rubella IgG Antibody,Negative,P16612,60,F,NY,Kings,Serum,2024-11-02
+133,LabCorp,2024-12-04,Measles IgM Antibody,Inconclusive,P94385,69,M,MA,Suffolk,Saliva,2024-11-24
+134,Quest Diagnostics,2024-11-12,Rubella IgG Antibody,Inconclusive,P27961,27,F,CA,Los Angeles,Serum,2024-11-03
+135,BioReference,2024-11-30,Influenza A PCR,Inconclusive,P74094,29,F,WA,King,Nasopharyngeal,2024-11-26
+136,Quest Diagnostics,2024-11-30,Mumps PCR,Inconclusive,P56734,19,F,GA,Fulton,Nasopharyngeal,2024-12-01
+137,LabCorp,2024-11-18,Pertussis Culture,Negative,P60701,68,M,TX,Travis,Serum,2024-11-27
+138,LabCorp,2024-11-30,Hepatitis B Surface Antigen,Negative,P97285,34,F,IL,Cook,Swab,2024-11-12
+139,Quest Diagnostics,2024-11-26,Influenza A PCR,Positive,P16800,21,F,CO,Denver,Blood,2024-10-27
+140,Quest Diagnostics,2024-12-02,Hepatitis B Surface Antigen,Negative,P57935,45,M,WA,King,Saliva,2024-11-01
+141,BioReference,2024-12-03,Rubella IgG Antibody,Negative,P48015,38,M,GA,Fulton,Nasopharyngeal,2024-11-23
+142,LabCorp,2024-11-22,Pertussis Culture,Inconclusive,P97931,90,F,WA,King,Blood,2024-11-05
+143,Quest Diagnostics,2024-11-26,Influenza A PCR,Inconclusive,P61885,7,M,CA,Los Angeles,Saliva,2024-11-29
+144,Quest Diagnostics,2024-11-13,Hepatitis B Surface Antigen,Inconclusive,P15837,45,F,CO,Denver,Swab,2024-11-26
+145,LabCorp,2024-11-21,Rubella IgG Antibody,Inconclusive,P62265,81,M,WA,King,Swab,2024-10-28
+146,Quest Diagnostics,2024-11-07,Pertussis Culture,Positive,P67014,6,M,PA,Allegheny,Blood,2024-12-04
+147,BioReference,2024-11-14,Rubella IgG Antibody,Inconclusive,P80207,46,M,MA,Suffolk,Serum,2024-11-25
+148,Quest Diagnostics,2024-11-22,Hepatitis B Surface Antigen,Positive,P57144,10,M,PA,Allegheny,Swab,2024-11-16
+149,Quest Diagnostics,2024-11-18,Pertussis Culture,Inconclusive,P90692,72,M,NY,Kings,Swab,2024-11-03
+150,LabCorp,2024-11-22,COVID-19 PCR,Negative,P13511,29,F,PA,Allegheny,Swab,2024-11-14
+151,LabCorp,2024-12-03,COVID-19 PCR,Inconclusive,P67783,11,F,PA,Allegheny,Swab,2024-11-09
+152,Quest Diagnostics,2024-11-16,Hepatitis B Surface Antigen,Negative,P33588,84,M,CO,Denver,Swab,2024-10-26
+153,BioReference,2024-11-06,Hepatitis B Surface Antigen,Positive,P95133,41,M,TX,Travis,Blood,2024-11-18
+154,BioReference,2024-11-13,Hepatitis B Surface Antigen,Inconclusive,P47187,88,F,TX,Travis,Saliva,2024-12-02
+155,BioReference,2024-11-12,Mumps PCR,Negative,P30917,29,M,CA,Los Angeles,Blood,2024-10-28
+156,Quest Diagnostics,2024-11-09,Rubella IgG Antibody,Positive,P67755,42,F,FL,Miami-Dade,Blood,2024-11-08
+157,Quest Diagnostics,2024-11-25,Influenza A PCR,Negative,P29725,77,F,NY,Kings,Swab,2024-12-04
+158,Quest Diagnostics,2024-11-19,Pertussis Culture,Negative,P87795,25,M,TX,Travis,Blood,2024-11-17
+159,LabCorp,2024-11-05,COVID-19 PCR,Negative,P55293,55,M,FL,Miami-Dade,Swab,2024-10-30
+160,Quest Diagnostics,2024-11-21,Influenza A PCR,Negative,P66631,24,M,IL,Cook,Serum,2024-11-02
+161,LabCorp,2024-11-06,Measles IgM Antibody,Negative,P63257,52,M,CA,Los Angeles,Serum,2024-10-28
+162,Quest Diagnostics,2024-11-09,Influenza A PCR,Positive,P60193,53,F,IL,Cook,Swab,2024-10-26
+163,Quest Diagnostics,2024-11-15,COVID-19 PCR,Negative,P28471,40,M,CO,Denver,Blood,2024-12-01
+164,BioReference,2024-11-05,Rubella IgG Antibody,Positive,P87576,29,M,IL,Cook,Nasopharyngeal,2024-10-28
+165,BioReference,2024-11-20,Mumps PCR,Inconclusive,P94121,38,M,CO,Denver,Blood,2024-11-11
+166,LabCorp,2024-11-27,Rubella IgG Antibody,Inconclusive,P91348,60,M,GA,Fulton,Blood,2024-11-14
+167,LabCorp,2024-11-20,Influenza A PCR,Inconclusive,P97181,79,M,PA,Allegheny,Serum,2024-11-14
+168,BioReference,2024-11-24,Rubella IgG Antibody,Inconclusive,P61549,84,M,PA,Allegheny,Nasopharyngeal,2024-12-01
+169,Quest Diagnostics,2024-11-15,Mumps PCR,Inconclusive,P43940,12,M,TX,Travis,Serum,2024-11-02
+170,LabCorp,2024-11-07,COVID-19 PCR,Positive,P50771,46,M,IL,Cook,Blood,2024-11-12
+171,BioReference,2024-12-04,Pertussis Culture,Positive,P24533,73,M,IL,Cook,Swab,2024-11-10
+172,Quest Diagnostics,2024-11-22,Pertussis Culture,Negative,P10251,54,F,WA,King,Nasopharyngeal,2024-10-31
+173,Quest Diagnostics,2024-11-19,Mumps PCR,Positive,P20530,53,M,FL,Miami-Dade,Blood,2024-11-23
+174,LabCorp,2024-11-24,COVID-19 PCR,Inconclusive,P91724,86,M,IL,Cook,Blood,2024-11-14
+175,Quest Diagnostics,2024-11-24,Measles IgM Antibody,Negative,P65245,22,F,FL,Miami-Dade,Swab,2024-11-28
+176,BioReference,2024-12-03,Rubella IgG Antibody,Positive,P76615,13,F,IL,Cook,Swab,2024-10-27
+177,BioReference,2024-12-02,Rubella IgG Antibody,Negative,P46123,68,F,MA,Suffolk,Blood,2024-12-03
+178,BioReference,2024-11-13,Measles IgM Antibody,Inconclusive,P28123,74,M,WA,King,Swab,2024-11-22
+179,Quest Diagnostics,2024-11-09,Measles IgM Antibody,Positive,P27159,38,M,FL,Miami-Dade,Saliva,2024-11-07
+180,LabCorp,2024-12-03,Pertussis Culture,Negative,P81875,57,M,FL,Miami-Dade,Swab,2024-11-28
+181,Quest Diagnostics,2024-11-06,COVID-19 PCR,Inconclusive,P57668,18,F,TX,Travis,Saliva,2024-11-04
+182,Quest Diagnostics,2024-11-17,Pertussis Culture,Negative,P11499,89,M,TX,Travis,Serum,2024-11-19
+183,BioReference,2024-12-03,Mumps PCR,Positive,P90481,51,F,GA,Fulton,Swab,2024-11-26
+184,Quest Diagnostics,2024-11-18,COVID-19 PCR,Positive,P28703,72,F,WA,King,Saliva,2024-11-19
+185,LabCorp,2024-11-20,Measles IgM Antibody,Inconclusive,P88004,37,F,CA,Los Angeles,Nasopharyngeal,2024-11-25
+186,LabCorp,2024-11-18,Mumps PCR,Negative,P36494,27,M,TX,Travis,Swab,2024-11-15
+187,LabCorp,2024-11-26,Pertussis Culture,Inconclusive,P58765,51,M,MA,Suffolk,Swab,2024-11-25
+188,BioReference,2024-11-25,COVID-19 PCR,Inconclusive,P21350,73,F,TX,Travis,Serum,2024-11-23
+189,Quest Diagnostics,2024-11-10,Measles IgM Antibody,Inconclusive,P11628,59,F,CA,Los Angeles,Blood,2024-11-26
+190,BioReference,2024-11-22,Hepatitis B Surface Antigen,Positive,P98958,56,F,CO,Denver,Nasopharyngeal,2024-11-17
+191,BioReference,2024-11-14,COVID-19 PCR,Positive,P96688,79,M,TX,Travis,Serum,2024-11-25
+192,LabCorp,2024-11-30,Mumps PCR,Negative,P31055,23,M,GA,Fulton,Saliva,2024-11-13
+193,Quest Diagnostics,2024-11-14,Measles IgM Antibody,Positive,P50493,15,F,GA,Fulton,Swab,2024-11-15
+194,Quest Diagnostics,2024-11-22,Pertussis Culture,Inconclusive,P26942,83,M,NY,Kings,Nasopharyngeal,2024-11-30
+195,LabCorp,2024-12-01,Pertussis Culture,Positive,P23720,4,M,PA,Allegheny,Saliva,2024-11-22
+196,BioReference,2024-11-30,Pertussis Culture,Inconclusive,P90471,82,F,NY,Kings,Saliva,2024-11-05
+197,Quest Diagnostics,2024-11-11,COVID-19 PCR,Positive,P70450,3,F,CO,Denver,Saliva,2024-11-15
+198,Quest Diagnostics,2024-11-09,Hepatitis B Surface Antigen,Positive,P88148,30,M,FL,Miami-Dade,Blood,2024-11-23
+199,Quest Diagnostics,2024-11-28,Rubella IgG Antibody,Inconclusive,P61946,34,M,FL,Miami-Dade,Swab,2024-11-26
+200,Quest Diagnostics,2024-11-14,Measles IgM Antibody,Negative,P61616,90,M,IL,Cook,Blood,2024-10-31
+201,Quest Diagnostics,2024-12-01,Hepatitis B Surface Antigen,Inconclusive,P29681,54,F,WA,King,Saliva,2024-12-01
+202,BioReference,2024-11-14,Mumps PCR,Positive,P91528,35,M,WA,King,Blood,2024-10-31
+203,LabCorp,2024-11-11,Influenza A PCR,Positive,P55038,63,M,IL,Cook,Serum,2024-11-02
+204,Quest Diagnostics,2024-11-18,Hepatitis B Surface Antigen,Inconclusive,P44972,82,M,NY,Kings,Serum,2024-11-03
+205,BioReference,2024-11-13,Measles IgM Antibody,Inconclusive,P94930,85,F,GA,Fulton,Saliva,2024-11-23
+206,Quest Diagnostics,2024-11-07,COVID-19 PCR,Positive,P63175,84,F,MA,Suffolk,Blood,2024-11-12
+207,LabCorp,2024-11-24,Pertussis Culture,Inconclusive,P99554,5,F,FL,Miami-Dade,Swab,2024-11-04
+208,Quest Diagnostics,2024-11-28,Pertussis Culture,Negative,P35602,61,M,MA,Suffolk,Serum,2024-11-02
+209,BioReference,2024-11-17,COVID-19 PCR,Positive,P20657,50,F,PA,Allegheny,Saliva,2024-11-27
+210,BioReference,2024-11-21,COVID-19 PCR,Inconclusive,P21811,49,F,CO,Denver,Blood,2024-11-16
+211,BioReference,2024-11-23,Rubella IgG Antibody,Inconclusive,P37624,36,M,CA,Los Angeles,Nasopharyngeal,2024-11-17
+212,LabCorp,2024-11-25,COVID-19 PCR,Inconclusive,P96390,39,F,TX,Travis,Swab,2024-12-01
+213,Quest Diagnostics,2024-11-28,Influenza A PCR,Inconclusive,P37447,20,F,WA,King,Blood,2024-10-29
+214,LabCorp,2024-11-08,COVID-19 PCR,Inconclusive,P61769,7,M,NY,Kings,Swab,2024-11-28
+215,Quest Diagnostics,2024-11-19,Hepatitis B Surface Antigen,Positive,P16482,39,F,MA,Suffolk,Nasopharyngeal,2024-11-17
+216,LabCorp,2024-11-13,Pertussis Culture,Negative,P35969,65,M,MA,Suffolk,Swab,2024-10-30
+217,Quest Diagnostics,2024-11-10,Measles IgM Antibody,Negative,P81473,59,M,FL,Miami-Dade,Blood,2024-10-26
+218,LabCorp,2024-11-12,Influenza A PCR,Positive,P11496,33,M,FL,Miami-Dade,Nasopharyngeal,2024-11-21
+219,Quest Diagnostics,2024-11-17,Mumps PCR,Negative,P69287,46,M,CO,Denver,Nasopharyngeal,2024-10-30
+220,LabCorp,2024-11-08,Pertussis Culture,Negative,P34095,76,F,NY,Kings,Swab,2024-11-26
+221,LabCorp,2024-11-17,COVID-19 PCR,Negative,P19855,5,F,FL,Miami-Dade,Blood,2024-11-21
+222,LabCorp,2024-11-25,Mumps PCR,Inconclusive,P69045,77,F,CA,Los Angeles,Blood,2024-11-09
+223,LabCorp,2024-11-10,Hepatitis B Surface Antigen,Positive,P83017,58,M,IL,Cook,Blood,2024-11-24
+224,BioReference,2024-11-06,COVID-19 PCR,Positive,P95012,84,M,TX,Travis,Blood,2024-11-09
+225,LabCorp,2024-11-05,Rubella IgG Antibody,Positive,P75448,18,F,IL,Cook,Blood,2024-11-13
+226,Quest Diagnostics,2024-11-23,Mumps PCR,Negative,P25293,17,M,CA,Los Angeles,Blood,2024-12-02
+227,BioReference,2024-11-22,Hepatitis B Surface Antigen,Positive,P62776,14,M,PA,Allegheny,Serum,2024-11-22
+228,LabCorp,2024-11-16,Pertussis Culture,Inconclusive,P74351,60,M,NY,Kings,Swab,2024-11-24
+229,Quest Diagnostics,2024-11-21,Pertussis Culture,Negative,P70532,15,M,FL,Miami-Dade,Swab,2024-11-17
+230,BioReference,2024-11-26,Pertussis Culture,Inconclusive,P36589,7,M,NY,Kings,Saliva,2024-12-03
+231,BioReference,2024-11-17,Influenza A PCR,Positive,P29272,11,M,GA,Fulton,Saliva,2024-11-12
+232,LabCorp,2024-12-04,Measles IgM Antibody,Positive,P28979,29,M,CO,Denver,Nasopharyngeal,2024-11-29
+233,LabCorp,2024-11-07,COVID-19 PCR,Negative,P90020,39,M,PA,Allegheny,Blood,2024-11-16
+234,LabCorp,2024-11-11,Mumps PCR,Inconclusive,P42088,90,M,FL,Miami-Dade,Swab,2024-10-26
+235,LabCorp,2024-11-09,Hepatitis B Surface Antigen,Positive,P25054,22,M,CA,Los Angeles,Blood,2024-11-13
+236,BioReference,2024-11-17,Measles IgM Antibody,Negative,P50116,60,M,IL,Cook,Swab,2024-10-28
+237,Quest Diagnostics,2024-11-27,Mumps PCR,Inconclusive,P48744,27,M,IL,Cook,Serum,2024-11-22
+238,LabCorp,2024-11-15,Measles IgM Antibody,Inconclusive,P92343,28,F,PA,Allegheny,Blood,2024-11-16
+239,LabCorp,2024-11-05,Hepatitis B Surface Antigen,Positive,P90729,56,M,FL,Miami-Dade,Swab,2024-11-29
+240,BioReference,2024-11-28,Pertussis Culture,Negative,P74014,57,F,CO,Denver,Saliva,2024-11-24
+241,LabCorp,2024-12-01,Influenza A PCR,Inconclusive,P68003,74,M,TX,Travis,Serum,2024-11-07
+242,BioReference,2024-11-17,Influenza A PCR,Negative,P53684,28,F,CO,Denver,Blood,2024-11-27
+243,Quest Diagnostics,2024-11-15,Measles IgM Antibody,Inconclusive,P86678,15,F,CO,Denver,Swab,2024-11-19
+244,BioReference,2024-11-21,Pertussis Culture,Inconclusive,P14380,11,M,WA,King,Nasopharyngeal,2024-10-28
+245,BioReference,2024-12-01,Influenza A PCR,Inconclusive,P85954,69,M,FL,Miami-Dade,Saliva,2024-11-28
+246,BioReference,2024-11-22,Pertussis Culture,Inconclusive,P78716,83,F,CA,Los Angeles,Serum,2024-11-26
+247,BioReference,2024-11-09,Influenza A PCR,Negative,P29277,13,M,NY,Kings,Swab,2024-11-13
+248,BioReference,2024-11-25,COVID-19 PCR,Positive,P87940,62,F,CA,Los Angeles,Serum,2024-10-31
+249,BioReference,2024-11-24,Rubella IgG Antibody,Inconclusive,P19318,50,F,IL,Cook,Serum,2024-11-27
+250,LabCorp,2024-11-27,Mumps PCR,Positive,P26640,25,F,CO,Denver,Saliva,2024-11-12
